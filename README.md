@@ -7,3 +7,5 @@ link is for the folder which has videos for both assignment.<br/>
 asssignment1.py is the source code for assignment1<br/>
 readme.pdf is the explanation for assignment1.<br/> 
 assignment2.ipynb is the source code for assignment2<br/>
+assignment3 question1 is the source code for question 1 in assignment 3.
+assignment3 question2 is the source code for question 2 in assignment 3.
