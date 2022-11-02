@@ -3,7 +3,7 @@
 Name: Keyurkumar Patel<br/>
 #700: 700722290<br/></h2>
 <p>video link: https://drive.google.com/drive/folders/1MB0dOVcI5JYr--fT70xsvKSyoeMJMAaX?usp=sharing<br/>
-link is for the folder which has videos for both assignment.<br/></p><hr>
+link is for the folder which has videos for all assignment.<br/></p><hr>
 <p>asssignment1.py is the source code for assignment1<br/>
 readme.pdf is the explanation for assignment1.<br/> </p><hr>
 <p>assignment2.ipynb is the source code for assignment2<br/></p><hr>
